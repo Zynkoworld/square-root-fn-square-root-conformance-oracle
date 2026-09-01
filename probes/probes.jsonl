@@ -1,0 +1,6 @@
+{"input": 1, "expect": 1, "task": "square-root", "lang": "python"}
+{"input": 4, "expect": 2, "task": "square-root", "lang": "python"}
+{"input": 25, "expect": 5, "task": "square-root", "lang": "python"}
+{"input": 81, "expect": 9, "task": "square-root", "lang": "python"}
+{"input": 196, "expect": 14, "task": "square-root", "lang": "python"}
+{"input": 65025, "expect": 255, "task": "square-root", "lang": "python"}
